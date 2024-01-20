@@ -1,6 +1,7 @@
 
 .widthcard{
-    width: calc(100% / 3);
+    width: calc(100% / 3 - 2rem) ;
+    margin: 1rem;
 }
 
 
